@@ -9,7 +9,7 @@ Water level monitoring in overhead tanks in apartment complex is a problem.Tank 
  
  This project takes location data from GPS and sends message to respective person. This project can be used for monitoring the location of the asserts.
  
- Circuit description: 
+ Circuit description: <br>
      1.Connect SIM card in the sim holder and also connect GSM antenna. <br>
      2.Connect the GPS. <br>
      3.Edit the "con" number. <br> 
