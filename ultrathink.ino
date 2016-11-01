@@ -8,8 +8,8 @@
 #include <LWiFiClient.h>
 #include <Grove_LED_Bar.h>
 
-#define WIFI_AP "jan"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_AP "jan"             //wifi name
+#define WIFI_PASSWORD "12345678"   // wifi password
 #define WIFI_AUTH LWIFI_WPA  // choose from LWIFI_OPEN, LWIFI_WPA, or LWIFI_WEP according to your WiFi AP configuration
 #define trigPin 13
 #define echoPin 12
